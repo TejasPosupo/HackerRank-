@@ -1,3 +1,3 @@
 # HackerRank 
 
-##solving python problems from HackerRank
+## solving python problems from HackerRank
